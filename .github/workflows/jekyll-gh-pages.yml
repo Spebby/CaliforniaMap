@@ -30,6 +30,17 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Set BASE_PATH
+        run: echo "BASE_PATH=/CaliforniaDats/" >> $GITHUB_ENV
+        if: github.ref == 'refs/heads/main'
+
+      - name: Set base URL for production build
+        run: |
+          if [[ "$GITHUB_REF" == "refs/heads/main" ]]; then
+            echo "Setting base URL for production"
+            sed -i 's|%BASE_URL%|/maps/|' index.html  # Replace placeholder with actual base URL
+          fi
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
@@ -37,14 +48,6 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-  
-      - name: Set base URL for production build
-        run: |
-          if [[ "$GITHUB_REF" == "refs/heads/main" ]]; then
-            echo "Setting base URL for production"
-            sed -i 's|%BASE_URL%|/CaliforniaMap/|' index.html  # Replace placeholder with actual base URL
-            cat index.html
-          fi
 
   # Deployment job
   deploy:
