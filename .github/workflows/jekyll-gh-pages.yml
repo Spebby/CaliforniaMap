@@ -42,7 +42,7 @@ jobs:
         run: |
           if [[ "$GITHUB_REF" == "refs/heads/main" ]]; then
             echo "Setting base URL for production"
-            sed -i 's|%BASE_URL%|/maps/|' index.html  # Replace placeholder with actual base URL
+            sed -i 's|%BASE_URL%|/CaliforniaMap/|' index.html  # Replace placeholder with actual base URL
             cat index.html
           fi
 
