@@ -1,0 +1,184 @@
+{
+    "type": "FeatureCollection",
+    "category": "Airdrop",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "airdropStart",
+                "name": "Golden Gate Mortar",
+                "show_on_map": true
+            },
+            "coordinates": [ -973, 4008 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag":  "airdropEnd",
+                "name": "San Francisco Airdrop",
+                "show_on_map": true
+            },
+            "coordinates": [ -599, 3581 ]
+        },
+        {
+            "type": "LineString",
+            "properties": {
+                "show_on_map": true
+            },
+            "coordinates": [
+                [ -973, 4008 ],
+                [ -599, 3581 ]
+            ]
+        },
+
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "airdropStart",
+                "name": "Oakland Mortar",
+                "show_on_map": true
+            },
+            "coordinates": [ -343, 3849 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag":  "airdropEnd",
+                "name": "Oakland Airdrop",
+                "show_on_map": true
+            },
+            "coordinates": [ -332, 3667 ]
+        },
+        {
+            "type": "LineString",
+            "properties": {
+                "show_on_map": true
+            },
+            "coordinates": [
+                [ -343, 3849 ],
+                [ -332, 3667 ]
+            ]
+        },
+
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "airdropStart",
+                "name": "Tuolumne Mortar",
+                "show_on_map": true
+            },
+            "coordinates": [ 1658, 3396 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag":  "airdropEnd",
+                "name": "Tuolumne Airdrop",
+                "show_on_map": true
+            },
+            "coordinates": [ 1755, 2787 ]
+        },
+        {
+            "type": "LineString",
+            "properties": {
+                "show_on_map": true
+            },
+            "coordinates": [
+                [ 1658, 3396 ],
+                [ 1755, 2787 ]
+            ]
+        },
+
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "airdropStart",
+                "name": "Moss Landing Mortar",
+                "show_on_map": true
+            },
+            "coordinates": [ -642, 1768 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag":  "airdropEnd",
+                "name": "Moss Landing Airdrop",
+                "show_on_map": true
+            },
+            "coordinates": [ -398, 1630 ]
+        },
+        {
+            "type": "LineString",
+            "properties": {
+                "show_on_map": true
+            },
+            "coordinates": [
+                [ -642, 1768 ],
+                [ -398, 1630 ]
+            ]
+        },
+
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "airdropStart",
+                "name": "Costa Mesa Mortar",
+                "show_on_map": true
+            },
+            "coordinates": [ 825, 1224 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag":  "airdropEnd",
+                "name": "Costa Mesa Airdrop",
+                "show_on_map": true
+            },
+            "coordinates": [ 497, 866 ]
+        },
+        {
+            "type": "LineString",
+            "properties": {
+                "show_on_map": true
+            },
+            "coordinates": [
+                [ 825, 1224 ],
+                [ 497, 866  ]
+            ]
+        },
+
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "airdropStart",
+                "name": "Death  Mortar",
+                "show_on_map": true
+            },
+                "coordinates": [ 1329, -543 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag":  "airdropEnd",
+                "name": "Death Valley Airdrop",
+                "show_on_map": true
+            },
+            "coordinates": [ 1677, -791 ]
+        },
+        {
+            "type": "LineString",
+            "properties": {
+                "show_on_map": true
+            },
+            "coordinates": [
+                [ 1329, -543 ],
+                [ 1677, -791 ]
+            ]
+        }
+    ]
+}

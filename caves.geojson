@@ -1,0 +1,150 @@
+{
+    "type": "FeatureCollection",
+    "category": "Cave",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Elkhorn Sea Cave North Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ -567, 2572 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Elkhorn Sea Cave South Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ -685, 2320 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Grand Sequoia Cavern",
+                "show_on_map": true
+            },
+            "coordinates": [ 1562, 2140 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Marshal Cave",
+                "show_on_map": true
+            },
+            "coordinates": [ 776, -1150 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Base Cave 1",
+                "show_on_map": true
+            },
+            "coordinates": [ 2330, 2130 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Base Cave 2",
+                "show_on_map": true
+            },
+            "coordinates": [ 890, 1513 ]
+        },
+
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Richard's Cave",
+                "show_on_map": true
+            },
+            "coordinates": [ 1714, 2638 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "El Portal Waterfall Cave",
+                "show_on_map": true
+            },
+            "coordinates": [ 1942.5, 1355 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Elkhorn Falls Cavern",
+                "show_on_map": true
+            },
+            "coordinates": [ -23, 2142 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Rocío Marino Cavern",
+                "show_on_map": true
+            },
+            "coordinates": [ -613.5, 781 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Seamoss Trench",
+                "show_on_map": true
+            },
+            "coordinates": [ -1124, 1510 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Seamoss Trench",
+                "show_on_map": true
+            },
+            "coordinates": [ -1260, -215 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "BL Truganni",
+                "show_on_map": true
+            },
+            "coordinates": [ -1268, 1851 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Notleys Cave",
+                "show_on_map": true
+            },
+            "coordinates": [ -778, 645 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "cave",
+                "name": "Mather Tunnel",
+                "show_on_map": true
+            },
+            "coordinates": [ 2235, 3468 ]
+        }
+    ]
+}

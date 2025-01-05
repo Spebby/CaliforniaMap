@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "category": "Mine",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Calabasas Mines West Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 130, 120 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Calabasas Mines East Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 601.5, 317 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Oakland Mines West Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 1865, 443 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Oakland Mines East Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 2275, 560 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Limestone Rift",
+                "show_on_map": true
+            },
+            "coordinates": [ 826, 1795 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Limestone Rift West Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 265.5, 1830 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Limestone Rift East Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 1088, 2000 ]
+        },
+
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Fenner Mine North Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 1976, -206 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Fenner Mine South Entrance",
+                "show_on_map": true
+            },
+            "coordinates": [ 1892.5, -416 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Kergon Quary",
+                "show_on_map": true
+            },
+            "coordinates": [ 2280, 118 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "mine",
+                "name": "Styxstone Mine",
+                "show_on_map": true
+            },
+            "coordinates": [ 842, -1146 ]
+        }
+    ]
+}

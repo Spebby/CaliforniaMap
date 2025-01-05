@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "category": "Location",
+    "features": [
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "San Francisco",
+                "tag": "listed",
+                "show_on_map": true
+            },
+            "coordinates": [-669, 3527]
+        },
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Oakland",
+                "tag": "listed",
+                "show_on_map": true
+            },
+            "coordinates": [-239, 3701]
+        },
+
+
+
+
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Loma Prieta",
+                "tag": "unlisted",
+                "show_on_map": true
+            },
+            "coordinates": [1134, 3599]
+        }
+    ]
+}
