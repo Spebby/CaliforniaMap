@@ -1,5 +1,5 @@
 const busIcon = L.icon({
-    iconUrl: 'assets/icons/BusIcon.png',
+    iconUrl: './assets/icons/BusIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
@@ -10,7 +10,7 @@ const busIcon = L.icon({
 });
 
 const airdropStartIcon = L.icon({
-    iconUrl: 'assets/icons/AirdropStartIcon.png',
+    iconUrl: './assets/icons/AirdropStartIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [48, 48], // size of the icon
@@ -21,7 +21,7 @@ const airdropStartIcon = L.icon({
 });
 
 const airdropEndIcon = L.icon({
-    iconUrl: 'assets/icons/AirdropEndIcon.png',
+    iconUrl: './assets/icons/AirdropEndIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [48, 48], // size of the icon
@@ -32,7 +32,7 @@ const airdropEndIcon = L.icon({
 });
 
 const mineIcon = L.icon({
-    iconUrl: 'assets/icons/MineIcon.png',
+    iconUrl: './assets/icons/MineIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
@@ -43,7 +43,7 @@ const mineIcon = L.icon({
 });
 
 const caveIcon = L.icon({
-    iconUrl: 'assets/icons/CaveIcon.png',
+    iconUrl: './assets/icons/CaveIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
@@ -54,7 +54,7 @@ const caveIcon = L.icon({
 });
 
 const bunkerIcon = L.icon({
-    iconUrl: 'assets/icons/BunkerIcon.png',
+    iconUrl: './assets/icons/BunkerIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon

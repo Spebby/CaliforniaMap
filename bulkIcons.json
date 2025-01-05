@@ -1,7 +1,7 @@
 {
     "directories": [
-      "/data/airdrop.geojson",
-      "/data/caves.geojson",
-      "/data/mines.geojson"
+      "./data/airdrop.geojson",
+      "./data/caves.geojson",
+      "./data/mines.geojson"
     ]
 }

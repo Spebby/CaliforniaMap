@@ -25,7 +25,7 @@ function processGeoJSON(geojsonData) {
 // Listed & Major Unlisted locations label maker
 async function loadLocationsNames() {
     try {
-    const response = await fetch('/data/locations.geojson');
+    const response = await fetch('./data/locations.geojson');
     const data = await response.json();
 
     categories['Listed Locations'] = L.layerGroup();
@@ -64,7 +64,7 @@ async function loadLocationsNames() {
 }
 
 async function loadData() {
-    const response = await fetch('/bulkIcons.json');
+    const response = await fetch(`./bulkIcons.json`);
     const iconData = (await response.json()).directories;
 
     let fetchPromises = iconData.map(data => 
@@ -115,8 +115,8 @@ function xy(x, y) {
 }
 
 const bounds = [xy(-1440, -1344), xy(2463, 4095)];
-const satellite = L.imageOverlay('assets/Map.png', bounds);
-const chart = L.imageOverlay('assets/Chart.png', bounds);
+const satellite = L.imageOverlay('./assets/Map.png', bounds);
+const chart = L.imageOverlay('./assets/Chart.png', bounds);
 
 satellite.addTo(map);
 var baseMaps = {
