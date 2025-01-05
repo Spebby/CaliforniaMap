@@ -32,6 +32,15 @@
                 "show_on_map": true
             },
             "coordinates": [1134, 3599]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "title": "BL Truganni",
+                "tag": "unlisted",
+                "show_on_map": true
+            },
+            "coordinates": [ -1268, 1851 ]
         }
     ]
 }
