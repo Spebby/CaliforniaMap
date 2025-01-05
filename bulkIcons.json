@@ -2,6 +2,9 @@
     "directories": [
       "./data/airdrop.geojson",
       "./data/caves.geojson",
-      "./data/mines.geojson"
+      "./data/mines.geojson",
+      "./data/bus.geojson",
+      "./data/wells.geojson",
+      "./data/bunkers.geojson"
     ]
 }

@@ -1,0 +1,15 @@
+{
+    "type": "FeatureCollection",
+    "category": "Bunker",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bunker",
+                "name": "El Portal Lakeside Bunker",
+                "show_on_map": true
+            },
+            "coordinates": [ 1436, 1303 ]
+        }
+    ]
+}

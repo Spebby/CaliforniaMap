@@ -41,6 +41,15 @@
                 "show_on_map": true
             },
             "coordinates": [ -1268, 1851 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "title": "ATT Firewatch",
+                "tag": "unlisted",
+                "show_on_map": true
+            },
+            "coordinates": [ 1410, 3578 ]
         }
     ]
 }

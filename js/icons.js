@@ -64,13 +64,26 @@ const bunkerIcon = L.icon({
     popupAnchor:  [16, 32] // point from which the popup should open relative to the iconAnchor
 });
 
+const wellIcon = L.icon({
+    iconUrl: './assets/icons/WellIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
+
+    iconSize:     [16, 16], // size of the icon
+    shadowSize:   [16, 16], // size of the shadow
+    iconAnchor:   [8, 8], // point of the icon which will correspond to marker's location
+    shadowAnchor: [8, 8],  // the same for the shadow
+    popupAnchor:  [8, 16] // point from which the popup should open relative to the iconAnchor
+});
+
 
 let tagToIcon = {
     "bus": busIcon,
     "airdropStart": airdropStartIcon,
     "airdropEnd": airdropEndIcon,
     "mine": mineIcon,
-    "cave": caveIcon
+    "cave": caveIcon,
+    "bunker": bunkerIcon,
+    "well": wellIcon
 };
 
 let tagToClass = {

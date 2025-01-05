@@ -67,7 +67,10 @@ async function loadData() {
     const response = await fetch(`./bulkIcons.json`);
     const iconData = (await response.json()).directories;
 
-    let fetchPromises = iconData.map(data => 
+    let fetchPromises = [];
+    
+    fetchPromises.push(loadLocationsNames());
+    fetchPromises = iconData.map(data => 
         fetch(data)
         .then(response => {
             if (!response.ok) {
@@ -85,7 +88,6 @@ async function loadData() {
             console.error('Error loading the GeoJSON file:', error);  // Handle any errors
         })
     );
-    fetchPromises.push(loadLocationsNames());
 
     await Promise.all(fetchPromises);
 }
@@ -132,12 +134,13 @@ const centre = xy(0, 0);
 const mCentre = L.marker(centre).addTo(map).bindPopup('Centre');
 map.setView(centre, -5);
 
+const defaultSet = new Set(["Airdrop", "Bus", "Listed Locations"]);
 let promise = loadData()
     .then(() => {
         console.log(categories);
         for (let key in categories) {
             layer = categories[key];
-            if (key in defaultSet) {
+            if (defaultSet.has(key)) {
                 layer.addTo(map);
             }
         
@@ -150,7 +153,6 @@ let promise = loadData()
 
 // ------------------
 
-const defaultSet = ["Airdrop", "Bus", "Listed Locations"]
 
 /*
 const marker = L.marker([51.5, -0.09]).addTo(map)

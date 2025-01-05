@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "category": "Bus",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bus",
+                "name": "Bare Man Stop",
+                "show_on_map": true
+            },
+            "coordinates": [ 1829, -170 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bus",
+                "name": "Bixby Stop",
+                "show_on_map": true
+            },
+            "coordinates": [ -245, -144 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bus",
+                "name": "Oasis Bus",
+                "show_on_map": true
+            },
+            "coordinates": [ 202, 1425 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bus",
+                "name": "DCC Laboratory Stop",
+                "show_on_map": true
+            },
+            "coordinates": [ 2130, 1787 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bus",
+                "name": "San Francisco Stop",
+                "show_on_map": true
+            },
+            "coordinates": [ -12, 3195 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bus",
+                "name": "Toulumne Stop",
+                "show_on_map": true
+            },
+            "coordinates": [ 1403, 3024 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "bus",
+                "name": "Fishing Spot Stop",
+                "show_on_map": true
+            },
+            "coordinates": [ 2262, 3955 ]
+        }
+    ]
+}
