@@ -25,7 +25,7 @@ function processGeoJSON(geojsonData) {
 // Listed & Major Unlisted locations label maker
 async function loadLocationsNames() {
     try {
-    const response = await fetch('/locations.geojson');
+    const response = await fetch('/data/locations.geojson');
     const data = await response.json();
 
     categories['Listed Locations'] = L.layerGroup();
@@ -63,6 +63,32 @@ async function loadLocationsNames() {
     }
 }
 
+async function loadData() {
+    const response = await fetch('/bulkIcons.json');
+    const iconData = (await response.json()).directories;
+
+    let fetchPromises = iconData.map(data => 
+        fetch(data)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Failed to fetch ${data}: ${response.statusText}`);
+            }
+            return response.json();  // Parse the JSON from the response
+        })
+        .then(data => {
+            if (!data) {
+                throw new Error(`GeoJSON data is empty or invalid for ${data}`);
+            }
+            processGeoJSON(data);  // Call the setMarkers function with the GeoJSON data
+        })
+        .catch(error => {
+            console.error('Error loading the GeoJSON file:', error);  // Handle any errors
+        })
+    );
+    fetchPromises.push(loadLocationsNames());
+
+    await Promise.all(fetchPromises);
+}
 
 /* openstreetmap example
 const map = L.map('map').setView([51.505, -0.09], 13);
@@ -89,8 +115,8 @@ function xy(x, y) {
 }
 
 const bounds = [xy(-1440, -1344), xy(2463, 4095)];
-const satellite = L.imageOverlay('Map.png', bounds);
-const chart = L.imageOverlay('Chart.png', bounds);
+const satellite = L.imageOverlay('assets/Map.png', bounds);
+const chart = L.imageOverlay('assets/Chart.png', bounds);
 
 satellite.addTo(map);
 var baseMaps = {
@@ -106,30 +132,7 @@ const centre = xy(0, 0);
 const mCentre = L.marker(centre).addTo(map).bindPopup('Centre');
 map.setView(centre, -5);
 
-const iconData = ['airdrop.geojson', 'caves.geojson', 'mines.geojson'];
-let tasks = [];
-
-tasks.push(loadLocationsNames());
-const fetchPromises = iconData.map(data => 
-    fetch(data)
-    .then(response => {
-        if (!response.ok) {
-            throw new Error(`Failed to fetch ${data}: ${response.statusText}`);
-        }
-        return response.json();  // Parse the JSON from the response
-    })
-    .then(data => {
-        if (!data) {
-            throw new Error(`GeoJSON data is empty or invalid for ${data}`);
-        }
-        processGeoJSON(data);  // Call the setMarkers function with the GeoJSON data
-    })
-    .catch(error => {
-        console.error('Error loading the GeoJSON file:', error);  // Handle any errors
-    })
-);
-
-Promise.all(fetchPromises)
+let promise = loadData()
     .then(() => {
         console.log(categories);
         for (let key in categories) {

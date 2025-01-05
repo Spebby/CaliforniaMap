@@ -1,6 +1,6 @@
 const busIcon = L.icon({
-    iconUrl: '/icons/BusIcon.png',
-    //shadowUrl: '/icons/BusIcon-Shadow.png',
+    iconUrl: 'assets/icons/BusIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
     shadowSize:   [32, 32], // size of the shadow
@@ -10,8 +10,8 @@ const busIcon = L.icon({
 });
 
 const airdropStartIcon = L.icon({
-    iconUrl: '/icons/AirdropStartIcon.png',
-    //shadowUrl: '/icons/BusIcon-Shadow.png',
+    iconUrl: 'assets/icons/AirdropStartIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [48, 48], // size of the icon
     shadowSize:   [32, 32], // size of the shadow
@@ -21,8 +21,8 @@ const airdropStartIcon = L.icon({
 });
 
 const airdropEndIcon = L.icon({
-    iconUrl: '/icons/AirdropEndIcon.png',
-    //shadowUrl: '/icons/BusIcon-Shadow.png',
+    iconUrl: 'assets/icons/AirdropEndIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [48, 48], // size of the icon
     shadowSize:   [32, 32], // size of the shadow
@@ -32,8 +32,8 @@ const airdropEndIcon = L.icon({
 });
 
 const mineIcon = L.icon({
-    iconUrl: '/icons/MineIcon.png',
-    //shadowUrl: '/icons/BusIcon-Shadow.png',
+    iconUrl: 'assets/icons/MineIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
     shadowSize:   [32, 32], // size of the shadow
@@ -43,8 +43,8 @@ const mineIcon = L.icon({
 });
 
 const caveIcon = L.icon({
-    iconUrl: '/icons/CaveIcon.png',
-    //shadowUrl: '/icons/BusIcon-Shadow.png',
+    iconUrl: 'assets/icons/CaveIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
     shadowSize:   [32, 32], // size of the shadow
@@ -54,8 +54,8 @@ const caveIcon = L.icon({
 });
 
 const bunkerIcon = L.icon({
-    iconUrl: '/icons/BunkerIcon.png',
-    //shadowUrl: '/icons/BusIcon-Shadow.png',
+    iconUrl: 'assets/icons/BunkerIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
     shadowSize:   [32, 32], // size of the shadow
