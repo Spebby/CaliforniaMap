@@ -1,5 +1,5 @@
 const deadzoneIcon = L.icon({
-    iconUrl: './assets/icons/deadzoneIcon.png',
+    iconUrl: './assets/icons/DeadzoneIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [48, 48], // size of the icon
@@ -120,7 +120,7 @@ const gnomeIcon = L.icon({
 });
 
 const secretIcon = L.icon({
-    iconUrl: './assets/icons/secretIcon.png',
+    iconUrl: './assets/icons/SecretIcon.png',
     //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
 
     iconSize:     [32, 32], // size of the icon
