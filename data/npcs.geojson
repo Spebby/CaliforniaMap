@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "category": "NPCs",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "gnome",
+                "name": "The Gnome Door",
+                "show_on_map": true
+            },
+            "coordinates": [ 925.2184, 3845.176 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "gnome",
+                "name": "Henry",
+                "show_on_map": true
+            },
+            "coordinates": [ 1980.915, 1422.477 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "gnome",
+                "name": "Gilda",
+                "show_on_map": true
+            },
+            "coordinates": [ 1600.617, 2114.043 ]
+        }
+    ]
+}

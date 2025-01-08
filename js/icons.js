@@ -108,6 +108,28 @@ const jugIcon = L.icon({
     popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
 });
 
+const gnomeIcon = L.icon({
+    iconUrl: './assets/icons/GnomeIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
+
+    iconSize:     [32, 32], // size of the icon
+    shadowSize:   [32, 32], // size of the shadow
+    iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
+    shadowAnchor: [8, 8],  // the same for the shadow
+    popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+});
+
+const secretIcon = L.icon({
+    iconUrl: './assets/icons/secretIcon.png',
+    //shadowUrl: 'assets/icons/BusIcon-Shadow.png',
+
+    iconSize:     [32, 32], // size of the icon
+    shadowSize:   [32, 32], // size of the shadow
+    iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
+    shadowAnchor: [8, 8],  // the same for the shadow
+    popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+});
+
 
 let tagToIcon = {
     "deadzone": deadzoneIcon,
@@ -119,7 +141,9 @@ let tagToIcon = {
     "caveWater": caveWaterIcon,
     "bunker": bunkerIcon,
     "well": wellIcon,
-    "jug": jugIcon
+    "jug": jugIcon,
+    "gnome": gnomeIcon,
+    "secret": secretIcon
 };
 
 let tagToClass = {

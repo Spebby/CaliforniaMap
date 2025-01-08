@@ -111,16 +111,6 @@
             "type": "Point",
             "properties": {
                 "tag": "caveWater",
-                "name": "Seamoss Trench",
-                "show_on_map": true
-            },
-            "coordinates": [ -1260, -215 ]
-        },
-
-        {
-            "type": "Point",
-            "properties": {
-                "tag": "caveWater",
                 "name": "Notleys Cave",
                 "show_on_map": true
             },

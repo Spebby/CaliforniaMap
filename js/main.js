@@ -11,8 +11,8 @@ function processGeoJSON(geojsonData) {
     const catStr = capitalize(category);
 
     // Ensure the category is defined in the categories object
-    if (!iconSets[category]) {
-        iconSets[category] = L.layerGroup();  // Use a LayerGroup for each category
+    if (!categories[category]) {
+        categories[category] = L.layerGroup();  // Use a LayerGroup for each category
     } 
 
     L.geoJSON(geojsonData, {
@@ -26,7 +26,7 @@ function processGeoJSON(geojsonData) {
             }).bindPopup(popup);
         },
         onEachFeature: function (feature, layer) {
-            iconSets[category].addLayer(layer);
+            categories[category].addLayer(layer);
         }
     });
 }
@@ -37,8 +37,8 @@ async function loadLocationsNames() {
     const response = await fetch('./data/locations.geojson');
     const data = await response.json();
 
-    iconSets['Listed Locations'] = L.layerGroup();
-    iconSets['Unlisted Locations'] = L.layerGroup();
+    categories['Listed Locations'] = L.layerGroup();
+    categories['Unlisted Locations'] = L.layerGroup();
 
     data.features.forEach(item => {
         if (item.properties.show_on_map) {
@@ -59,9 +59,9 @@ async function loadLocationsNames() {
 
             // Add the marker to the appropriate layer based on className
             if (tag === 'listed') {
-                iconSets['Listed Locations'].addLayer(marker);
+                categories['Listed Locations'].addLayer(marker);
             } else {
-                iconSets['Unlisted Locations'].addLayer(marker);
+                categories['Unlisted Locations'].addLayer(marker);
             }
         }
     });
@@ -95,6 +95,55 @@ async function loadData() {
         })
         .catch(error => {
             console.error('Error loading the GeoJSON file:', error);  // Handle any errors
+        })
+    );
+
+    await Promise.all(fetchPromises);
+}
+
+async function zoneGenerator() {
+    const response = await fetch(`./bulkZones.json`);
+    const zoneData = (await response.json()).directories;
+
+    let fetchPromises = [];
+    
+    fetchPromises = zoneData.map(data => 
+        fetch(data)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Failed to fetch ${data}: ${response.statusText}`);
+            }
+            return response.json();  // Parse the JSON from the response
+        })
+        .then(data => {
+            console.log(data);
+            if (!data) {
+                throw new Error(`JSON data is empty or invalid for ${data}`);
+            }
+
+            const category  = data.category || "default";
+            const catStr    = capitalize(category);
+            const catConfig = data.config;
+
+            // Ensure the category is defined in the categories object
+            if (!categories[category]) {
+                categories[category] = L.layerGroup();  // Use a LayerGroup for each category
+            }
+
+            data.features.forEach(zone => {
+                const p = zone.properties;
+                const content = `Category: ${catStr}<br>${p.name}<br>No Weapons: ${p.no_weapons}<br>No Buildables: ${p.no_buildables}`;
+                const popup = L.popup().setContent(content);
+                categories[category].addLayer(L.circle(xy(zone.coordinates), {
+                    color: catConfig.color,
+                    fillColor: catConfig.fill,
+                    fillOpacity: catConfig.opacity,
+                    radius: zone.scale
+                }).bindPopup(popup));
+            });
+        })
+        .catch(error => {
+            console.error('Error loading the JSON file:', error);  // Handle any errors
         })
     );
 
@@ -142,23 +191,17 @@ const centre = xy(0, 0);
 const mCentre = L.marker(centre).addTo(map).bindPopup('Centre');
 map.setView(centre, -5);
 
-let iconSets = {};
-const defaultIconSet = new Set(["Airdrop", "Bus", "Listed Locations"]);
-loadData()
+let categories = {};
+
+let promises = [];
+
+promises.push(loadData()
     .then(() => {
-        console.log(iconSets);
-        for (let key in iconSets) {
-            layer = iconSets[key];
-            if (defaultIconSet.has(key)) {
-                layer.addTo(map);
-            }
-        
-            layerControl.addOverlay(layer, key);
-        }
+        console.log(categories);
     })
     .catch(error => {
         console.error('Error processing all GeoJSON files:', error);
-    });
+    }));
 
 // ------------------
 
@@ -181,69 +224,31 @@ const polygon = L.polygon([
 ]).addTo(map).bindPopup('I am a polygon.');
 */
 
-
-async function zoneGenerator() {
-    const response = await fetch(`./bulkZones.json`);
-    const zoneData = (await response.json()).directories;
-
-    let fetchPromises = [];
-    
-    fetchPromises = zoneData.map(data => 
-        fetch(data)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`Failed to fetch ${data}: ${response.statusText}`);
-            }
-            return response.json();  // Parse the JSON from the response
-        })
-        .then(data => {
-            console.log(data);
-            if (!data) {
-                throw new Error(`JSON data is empty or invalid for ${data}`);
-            }
-
-            const category  = data.category || "default";
-            const catStr    = capitalize(category);
-            const catConfig = data.config;
-
-            // Ensure the category is defined in the categories object
-            if (!zoneSets[category]) {
-                zoneSets[category] = L.layerGroup();  // Use a LayerGroup for each category
-            }
-
-            data.features.forEach(zone => {
-                const p = zone.properties;
-                const content = `Category: ${catStr}<br>${p.name}<br>No Weapons: ${p.no_weapons}<br>No Buildables: ${p.no_buildables}`;
-                const popup = L.popup().setContent(content);
-                zoneSets[category].addLayer(L.circle(xy(zone.coordinates), {
-                    color: catConfig.color,
-                    fillColor: catConfig.fill,
-                    fillOpacity: catConfig.opacity,
-                    radius: zone.scale
-                }).bindPopup(popup));
-            });
-        })
-        .catch(error => {
-            console.error('Error loading the JSON file:', error);  // Handle any errors
-        })
-    );
-
-    await Promise.all(fetchPromises);
-}
-
-let zoneSets = {};
-zoneGenerator()
+promises.push(zoneGenerator()
     .then(() => {
-        console.log(zoneSets);
-        for (let key in zoneSets) {
-            layer = zoneSets[key];
-            layer.addTo(map);
-            layerControl.addOverlay(layer, key);
-        }
+        console.log(categories);
     })
     .catch(error => {
         console.error('Error processing all GeoJSON files:', error);
+    }));
+
+// Setup Layers
+const defaultIconSet = new Set(["Safezone", "Airdrop", "Bus", "Listed Locations"]);
+Promise.all(promises)
+    .then(() => {
+        console.log(categories);
+
+        let sortedKeys = ["Listed Locations", "Unlisted Locations", ...Object.keys(categories).sort().filter(key => !["Listed Locations", "Unlisted Locations"].includes(key))];
+        sortedKeys.forEach(key => {
+            let layer = categories[key];
+            if (defaultIconSet.has(key)) layer.addTo(map);
+            layerControl.addOverlay(layer, key);
+        });
+    })
+    .catch(error => {
+        console.log('Error processing all layers:', error);
     });
+
 
 
 function onMapClick(e) {
