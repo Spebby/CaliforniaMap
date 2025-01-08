@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "category": "Jug",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "jug",
+                "name": "Bare Man Water Cooler",
+                "show_on_map": true
+            },
+            "coordinates": [ 1854, -184 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "jug",
+                "name": "Calabasas Pharmacy Water Cooler",
+                "show_on_map": true
+            },
+            "coordinates": [ 778.38, 4.6 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "jug",
+                "name": "South San Francisco Water Cooler",
+                "show_on_map": true
+            },
+            "coordinates": [ -613.1, 3429.875 ]
+        }
+    ]
+}

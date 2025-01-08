@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "category": "Deadzone",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "Fort Mojave's Reactor<br>Tier 1",
+                "show_on_map": true
+            },
+            "coordinates": [ 2195.3, -1064.5 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "The Deepwater Complex<br>Tier 2",
+                "show_on_map": true
+            },
+            "coordinates": [ 1306, 563 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "Delmarva's Bunker<br>Tier 2",
+                "show_on_map": true
+            },
+            "coordinates": [ 1345, 2253 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "Mesadyne<br>Tier 3",
+                "show_on_map": true
+            },
+            "coordinates": [ 2201, -461 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "Mt. Whitney<br>Tier 3",
+                "show_on_map": true
+            },
+            "coordinates": [ 2451.411, 386.9424 ]
+        },
+
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "San Francisco Metro - South Entrance<br>Tier 1",
+                "show_on_map": true
+            },
+            "coordinates": [ -556, 3273.5 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "San Francisco Metro - North Entrance<br>Tier 1",
+                "show_on_map": true
+            },
+            "coordinates": [ -653, 3659 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "tag": "deadzone",
+                "name": "San Francisco Metro - Oakland Entrance<br>Tier 1",
+                "show_on_map": true
+            },
+            "coordinates": [ -230, 3876.75 ] 
+        }
+    ]
+}

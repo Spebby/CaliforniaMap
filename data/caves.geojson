@@ -63,8 +63,8 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
-                "name": "Richard's Cave",
+                "tag": "caveWater",
+                "name": "Richard's Den",
                 "show_on_map": true
             },
             "coordinates": [ 1714, 2638 ]
@@ -72,7 +72,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
+                "tag": "caveWater",
                 "name": "El Portal Waterfall Cave",
                 "show_on_map": true
             },
@@ -81,7 +81,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
+                "tag": "caveWater",
                 "name": "Elkhorn Falls Cavern",
                 "show_on_map": true
             },
@@ -91,8 +91,8 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
-                "name": "Rocío Marino Cavern",
+                "tag": "caveWater",
+                "name": "Rocío Marino Trench",
                 "show_on_map": true
             },
             "coordinates": [ -613.5, 781 ]
@@ -100,7 +100,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
+                "tag": "caveWater",
                 "name": "Seamoss Trench",
                 "show_on_map": true
             },
@@ -110,7 +110,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
+                "tag": "caveWater",
                 "name": "Seamoss Trench",
                 "show_on_map": true
             },
@@ -120,7 +120,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
+                "tag": "caveWater",
                 "name": "Notleys Cave",
                 "show_on_map": true
             },

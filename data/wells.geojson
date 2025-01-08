@@ -6,7 +6,7 @@
             "type": "Point",
             "properties": {
                 "tag": "well",
-                "name": "El Portal Lakeside Bunker",
+                "name": "Greenwater Campground Well",
                 "show_on_map": true
             },
             "coordinates": [ 661, -403 ]

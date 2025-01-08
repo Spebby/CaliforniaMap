@@ -1,0 +1,91 @@
+{
+    "type": "Circle",
+    "category": "Safezone",
+    "config": {
+        "color": "green",
+        "fill": "#003300",
+        "opacity": 0.5
+    },
+    "features": [
+        {
+            "properties": {
+                "name": "Delmarva's Bunker - Exit",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 1532.39, 2027.282 ],
+            "scale": 8.825789
+        },
+        {
+            "properties": {
+                "name": "Mt. Whitney Entrance",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 2451.411, 386.9424 ],
+            "scale": 20.84339
+        },
+        {
+            "properties": {
+                "name": "Bare Man",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 1852.55, -182.7045 ],
+            "scale": 111.2301
+        },
+        {
+            "properties": {
+                "name": "DCC Bunker",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 2291.085, 1825.538 ],
+            "scale": 149
+        },
+        {
+            "properties": {
+                "name": "86th Labratory",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 329.3552, -3698.837 ],
+            "scale": 891
+        },
+        {
+            "properties": {
+                "name": "The Art Studio",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 202.8272, 225.3568 ],
+            "scale": 50.90268
+        },
+        {
+            "properties": {
+                "name": "Gnome Zone",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 3174.011, 3890.415 ],
+            "scale": 68.5639
+        },
+        {
+            "properties": {
+                "name": "The Oasis",
+                "show_on_map": true,
+                "no_weapons": true,
+                "no_buildables": true
+            },
+            "coordinates": [ 175.0626, 1377.611 ],
+            "scale": 362.6667
+        }
+    ]
+}
