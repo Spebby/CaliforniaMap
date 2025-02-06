@@ -116,7 +116,9 @@ function main() {
             let sortedKeys = ["Listed Locations", "Unlisted Locations", ...Object.keys(categories).sort().filter(key => !["Listed Locations", "Unlisted Locations"].includes(key))];
             sortedKeys.forEach(key => {
                 let layer = categories[key];
-                if (key in defaultSet) layer.addTo(map);
+                if (defaultSet.includes(key)) {
+                    layer.addTo(map);
+                }
                 layerControl.addOverlay(layer, key);
             });
         })
