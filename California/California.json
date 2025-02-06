@@ -1,0 +1,59 @@
+{
+    "bulkIcons": "bulkIcons.json",
+    "bulkZones": "bulkZones.json",
+    "iconDefs":  "iconDefs.json",
+    "classDefs": "classDefs.json",
+    "config": {
+        "initialState": "Satellite",
+        "defaultOn": [
+            "Listed Locations",
+            "Airdrop",
+            "Bus",
+            "Safezone"
+        ],
+        "layers": [
+            {
+                "name": "Chart",
+                "path": "assets/Chart.png"
+            },
+            {
+                "name": "Satellite",
+                "path": "assets/Satellite.png"
+            }
+        ],
+        "bounds": {
+            "n":  4095,
+            "s": -1344,
+            "e":  2463,
+            "w": -1440
+        },
+        "view": {
+            "centre": [0, 0],
+            "zoom": -5,
+            "minzoom": -2
+        },
+        "groupings": [
+            {
+                "name": "Locations",
+                "group": [
+                    "Listed Locations",
+                    "Unlisted Locations"
+                ]
+            },
+            {
+                "name": "Caves",
+                "group": [
+                    "Cave",
+                    "Mine"
+                ]
+            },
+            {
+                "name": "Water",
+                "group": [
+                    "Well",
+                    "Jug"
+                ]
+            }
+        ]
+    }
+}

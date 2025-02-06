@@ -1,59 +1,12 @@
 {
     "type": "FeatureCollection",
-    "category": "Location",
+    "category": "Unlisted Locations",
+    "class": "Unlisted",
     "features": [
         {
             "type": "Point",
             "properties": { 
-                "title": "San Francisco",
-                "tag": "listed",
-                "show_on_map": true
-            },
-            "coordinates": [-669, 3527]
-        },
-        {
-            "type": "Point",
-            "properties": { 
-                "title": "Oakland",
-                "tag": "listed",
-                "show_on_map": true
-            },
-            "coordinates": [-239, 3701]
-        },
-
-        {
-            "type": "Point",
-            "properties": { 
-                "title": "Amador Cathedral",
-                "tag": "listed",
-                "show_on_map": true
-            },
-            "coordinates": [1803.096, 3653.63]
-        },
-        {
-            "type": "Point",
-            "properties": { 
-                "title": "Toulumne",
-                "tag": "listed",
-                "show_on_map": true
-            },
-            "coordinates": [1921.03, 3341.635]
-        },
-        {
-            "type": "Point",
-            "properties": { 
-                "title": "Red Bush",
-                "tag": "listed",
-                "show_on_map": true
-            },
-            "coordinates": [1906.086, 2879.477]
-        },
-
-        {
-            "type": "Point",
-            "properties": { 
                 "title": "Loma Prieta",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [1134, 3599]
@@ -62,7 +15,6 @@
             "type": "Point",
             "properties": {
                 "title": "ATT Firewatch",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1410, 3578 ]
@@ -71,7 +23,6 @@
             "type": "Point",
             "properties": {
                 "title": "Highway Patrol",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1647.447, 3383.889 ]
@@ -80,7 +31,6 @@
             "type": "Point",
             "properties": {
                 "title": "Fishing Spot",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 2234.794, 3921.187 ]
@@ -89,7 +39,6 @@
             "type": "Point",
             "properties": {
                 "title": "Satellite Mall",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1436.186156, 3049 ]
@@ -98,7 +47,6 @@
             "type": "Point",
             "properties": {
                 "title": "ATT Firewatch HQ",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1090.20608, 3340 ]
@@ -107,7 +55,6 @@
             "type": "Point",
             "properties": {
                 "title": "Tree Farm",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1276.169357, 3045 ]
@@ -116,7 +63,6 @@
             "type": "Point",
             "properties": {
                 "title": "Tree Farm",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1276.169357, 3045 ]
@@ -125,7 +71,6 @@
             "type": "Point",
             "properties": {
                 "title": "Limonn Tunnel North",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1498.0624, 4025 ]
@@ -134,7 +79,6 @@
             "type": "Point",
             "properties": {
                 "title": "Limonn Tunnel South",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 2142.664864, 2571.5 ]
@@ -143,7 +87,6 @@
             "type": "Point",
             "properties": {
                 "title": "Mather",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 2265.251984, 3439 ]
@@ -152,7 +95,6 @@
             "type": "Point",
             "properties": {
                 "title": "Twain Harte",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 2044, 3766 ]
@@ -161,39 +103,16 @@
         {
             "type": "Point",
             "properties": { 
-                "title": "Calabasas",
-                "tag": "listed",
-                "show_on_map": true
-            },
-            "coordinates": [739.507, -28.48297]
-        },
-        {
-            "type": "Point",
-            "properties": { 
-                "title": "Chester Motel",
-                "tag": "listed",
-                "show_on_map": true
-            },
-            "coordinates": [295.8307, 142.8299]
-        },
-
-        {
-            "type": "Point",
-            "properties": { 
                 "title": "Greenwater Campground",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [655.026322, -407.5]
         },
 
-
-
         {
             "type": "Point",
             "properties": {
                 "title": "BL Truganni",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ -1268, 1851 ]
@@ -202,7 +121,6 @@
             "type": "Point",
             "properties": {
                 "title": "Launch Rig",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ -1235.601, 574.7903 ]
@@ -211,19 +129,15 @@
             "type": "Point",
             "properties": {
                 "title": "Whale Bones",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ -1260.162, -215.0265 ]
         },
 
-
-
         {
             "type": "Point",
             "properties": {
                 "title": "Crashed Satellite",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 810.3578, -1187.873 ]
@@ -232,7 +146,6 @@
             "type": "Point",
             "properties": {
                 "title": "Adobe Village",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1590.46, -1246.501 ]
@@ -241,7 +154,6 @@
             "type": "Point",
             "properties": {
                 "title": "DCC Outpost: Bravo",
-                "tag": "unlisted",
                 "show_on_map": true
             },
             "coordinates": [ 1401.878, -559.5173 ]

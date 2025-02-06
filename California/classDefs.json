@@ -1,0 +1,13 @@
+{
+    "Listed": {
+        "class": "listed-location",
+        "iconSize":  [150, 40],
+        "iconAnchor": [75, 20]
+    },
+
+    "Unlisted": {
+        "class": "unlisted-location",
+        "iconSize":  [105, 28],
+        "iconAnchor": [52, 14]
+    }
+}

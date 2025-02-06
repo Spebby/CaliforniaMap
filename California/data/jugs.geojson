@@ -1,33 +1,31 @@
 {
     "type": "FeatureCollection",
-    "category": "NPCs",
+    "category": "Jug",
+    "icon": "Jug",
     "features": [
         {
             "type": "Point",
             "properties": {
-                "tag": "gnome",
-                "name": "The Gnome Door",
+                "name": "Bare Man Water Cooler",
                 "show_on_map": true
             },
-            "coordinates": [ 925.2184, 3845.176 ]
+            "coordinates": [ 1854, -184 ]
         },
         {
             "type": "Point",
             "properties": {
-                "tag": "gnome",
-                "name": "Henry",
+                "name": "Calabasas Pharmacy Water Cooler",
                 "show_on_map": true
             },
-            "coordinates": [ 1980.915, 1422.477 ]
+            "coordinates": [ 778.38, 4.6 ]
         },
         {
             "type": "Point",
             "properties": {
-                "tag": "gnome",
-                "name": "Gilda",
+                "name": "South San Francisco Water Cooler",
                 "show_on_map": true
             },
-            "coordinates": [ 1600.617, 2114.043 ]
+            "coordinates": [ -613.1, 3429.875 ]
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
     "type": "FeatureCollection",
     "category": "Bus",
+    "icon": "Bus",
     "features": [
         {
             "type": "Point",
             "properties": {
-                "tag": "bus",
                 "name": "Bare Man Stop",
                 "show_on_map": true
             },
@@ -14,7 +14,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "bus",
                 "name": "Bixby Stop",
                 "show_on_map": true
             },
@@ -23,7 +22,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "bus",
                 "name": "Oasis Bus",
                 "show_on_map": true
             },
@@ -32,7 +30,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "bus",
                 "name": "DCC Laboratory Stop",
                 "show_on_map": true
             },
@@ -42,7 +39,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "bus",
                 "name": "San Francisco Stop",
                 "show_on_map": true
             },
@@ -51,7 +47,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "bus",
                 "name": "Toulumne Stop",
                 "show_on_map": true
             },
@@ -60,7 +55,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "bus",
                 "name": "Fishing Spot Stop",
                 "show_on_map": true
             },

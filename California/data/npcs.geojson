@@ -1,33 +1,34 @@
 {
     "type": "FeatureCollection",
-    "category": "Secrets",
+    "category": "NPCs",
+    "icon": "NPCs",
     "features": [
         {
             "type": "Point",
             "properties": {
-                "tag": "secret",
-                "name": "Backrooms Entrance",
+                "icon": "Gnome",
+                "name": "The Gnome Door",
                 "show_on_map": true
             },
-            "coordinates": [ -459.1949, 722.3544 ]
+            "coordinates": [ 925.2184, 3845.176 ]
         },
         {
             "type": "Point",
             "properties": {
-                "tag": "secret",
-                "name": "Poolrooms Entrance",
+                "icon": "Gnome",
+                "name": "Henry",
                 "show_on_map": true
             },
-            "coordinates": [ 1315.441572, 2431.71875 ]
+            "coordinates": [ 1980.915, 1422.477 ]
         },
         {
             "type": "Point",
             "properties": {
-                "tag": "secret",
-                "name": "clue house",
+                "icon": "Gnome",
+                "name": "Gilda",
                 "show_on_map": true
             },
-            "coordinates": [ 2415.115, 2242.779 ]
+            "coordinates": [ 1600.617, 2114.043 ]
         }
-    ] 
+    ]
 }

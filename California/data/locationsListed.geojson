@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "category": "Listed Locations",
+    "class": "Listed",
+    "features": [
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "San Francisco",
+                "show_on_map": true
+            },
+            "coordinates": [-669, 3527]
+        },
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Oakland",
+                "show_on_map": true
+            },
+            "coordinates": [-239, 3701]
+        },
+
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Amador Cathedral",
+                "show_on_map": true
+            },
+            "coordinates": [1803.096, 3653.63]
+        },
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Toulumne",
+                "show_on_map": true
+            },
+            "coordinates": [1921.03, 3341.635]
+        },
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Red Bush",
+                "show_on_map": true
+            },
+            "coordinates": [1906.086, 2879.477]
+        },
+
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Calabasas",
+                "show_on_map": true
+            },
+            "coordinates": [739.507, -28.48297]
+        },
+        {
+            "type": "Point",
+            "properties": { 
+                "title": "Chester Motel",
+                "show_on_map": true
+            },
+            "coordinates": [295.8307, 142.8299]
+        }
+    ]
+}

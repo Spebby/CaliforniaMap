@@ -1,0 +1,109 @@
+{
+    "Deadzone": {
+        "path": "assets/icons/DeadzoneIcon.png",
+        "iconSize":     [48, 48],
+        "iconAnchor":   [24, 24],
+        "shadowSize":   [48, 48],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Bus": {
+        "path": "assets/icons/BusIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [32, 32],
+        "popupAnchor":  [0, 0]
+    },
+
+    "AirdropStart": {
+        "path": "assets/icons/AirdropStartIcon.png",
+        "iconSize":     [48, 48],
+        "iconAnchor":   [24, 24],
+        "shadowSize":   [48, 48],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
+    "AirdropEnd": {
+        "path": "assets/icons/AirdropEndIcon.png",
+        "iconSize":     [48, 48],
+        "iconAnchor":   [24, 24],
+        "shadowSize":   [48, 48],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Mine": {
+        "path": "assets/icons/MineIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [16, 16],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Cave": {
+        "path": "assets/icons/CaveIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [16, 16],
+        "popupAnchor":  [0, 0]
+    },
+
+    "CaveWater": {
+        "path": "assets/icons/CaveWaterIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [16, 16],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Bunker": {
+        "path": "assets/icons/BunkerIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [16, 16],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Well": {
+        "path": "assets/icons/WellIcon.png",
+        "iconSize":     [16, 16],
+        "iconAnchor":   [8, 8],
+        "shadowSize":   [16, 16],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Jug": {
+        "path": "assets/icons/JugIcon.png",
+        "iconSize":     [16, 16],
+        "iconAnchor":   [8, 8],
+        "shadowSize":   [16, 16],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Gnome": {
+        "path": "assets/icons/GnomeIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
+    "Secret": {
+        "path": "assets/icons/SecretIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    }
+}

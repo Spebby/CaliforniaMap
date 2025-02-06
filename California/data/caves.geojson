@@ -1,11 +1,11 @@
 {
     "type": "FeatureCollection",
     "category": "Cave",
+    "icon": "Cave",
     "features": [
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
                 "name": "Elkhorn Sea Cave North Entrance",
                 "show_on_map": true
             },
@@ -14,7 +14,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
                 "name": "Elkhorn Sea Cave South Entrance",
                 "show_on_map": true
             },
@@ -24,7 +23,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
                 "name": "Grand Sequoia Cavern",
                 "show_on_map": true
             },
@@ -34,7 +32,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
                 "name": "Marshal Cave",
                 "show_on_map": true
             },
@@ -43,7 +40,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
                 "name": "Base Cave 1",
                 "show_on_map": true
             },
@@ -52,7 +48,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
                 "name": "Base Cave 2",
                 "show_on_map": true
             },
@@ -63,7 +58,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "caveWater",
+                "icon": "CaveWater",
                 "name": "Richard's Den",
                 "show_on_map": true
             },
@@ -72,7 +67,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "caveWater",
+                "icon": "CaveWater",
                 "name": "El Portal Waterfall Cave",
                 "show_on_map": true
             },
@@ -81,7 +76,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "caveWater",
+                "icon": "CaveWater",
                 "name": "Elkhorn Falls Cavern",
                 "show_on_map": true
             },
@@ -91,7 +86,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "caveWater",
+                "icon": "CaveWater",
                 "name": "Rocío Marino Trench",
                 "show_on_map": true
             },
@@ -100,7 +95,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "caveWater",
+                "icon": "CaveWater",
                 "name": "Seamoss Trench",
                 "show_on_map": true
             },
@@ -110,7 +105,7 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "caveWater",
+                "icon": "CaveWater",
                 "name": "Notleys Cave",
                 "show_on_map": true
             },
@@ -120,7 +115,6 @@
         {
             "type": "Point",
             "properties": {
-                "tag": "cave",
                 "name": "Mather Tunnel",
                 "show_on_map": true
             },

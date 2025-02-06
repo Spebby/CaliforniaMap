@@ -1,11 +1,11 @@
 {
     "type": "FeatureCollection",
     "category": "Bunker",
+    "icon": "Bunker",
     "features": [
         {
             "type": "Point",
             "properties": {
-                "tag": "bunker",
                 "name": "El Portal Lakeside Bunker",
                 "show_on_map": true
             },

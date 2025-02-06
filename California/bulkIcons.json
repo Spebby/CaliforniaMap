@@ -1,0 +1,16 @@
+{
+    "directories": [
+        "data/airdrop.geojson",
+        "data/caves.geojson",
+        "data/mines.geojson",
+        "data/bus.geojson",
+        "data/bunkers.geojson",
+        "data/wells.geojson",
+        "data/jugs.geojson",
+        "data/deadzoneIcon.geojson",
+        "data/npcs.geojson",
+        "data/secrets.geojson",
+        "data/locationsListed.geojson",
+        "data/locationsUnlisted.geojson"
+    ]
+}

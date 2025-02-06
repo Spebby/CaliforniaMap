@@ -1,11 +1,11 @@
 {
     "type": "FeatureCollection",
     "category": "Well",
+    "icon": "Well",
     "features": [
         {
             "type": "Point",
             "properties": {
-                "tag": "well",
                 "name": "Greenwater Campground Well",
                 "show_on_map": true
             },
