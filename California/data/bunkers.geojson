@@ -10,6 +10,46 @@
                 "show_on_map": true
             },
             "coordinates": [ 1436, 1303 ]
-        }
+        },
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Cache 42 Forest Bunker",
+				"show_on_map": true
+			},
+			"coordinates": [ 1117, 958.5 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Steppe Bunker",
+				"show_on_map": true
+			},
+			"coordinates": [ 2195.5, -55.5 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Diabolo Bunker",
+				"show_on_map": true
+			},
+			"coordinates": [ 417, 2743 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Interstate Bunker",
+				"show_on_map": true
+			},
+			"coordinates": [ -650.25, 2913 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Interstate Bunker",
+				"show_on_map": true
+			},
+			"coordinates": [ -650.25, 2834 ]
+		}
     ]
 }

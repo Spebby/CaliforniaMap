@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "category": "Keycard Doors",
+    "icon": "KeycardDoor",
+    "features": [
+        {
+            "type": "Point",
+            "properties": {
+                "name": "Monterey Clinic Basement",
+                "show_on_map": true
+            },
+            "coordinates": [ -413.625, 610.625 ]
+        },
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Calabasas Hospital",
+				"show_on_map": true
+			},
+			"coordinates": [ 702, 22.75 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "San Francisco Hospital",
+				"show_on_map": true
+			},
+			"coordinates": [ -794.375, 3559.125 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "D. Lanos Storage",
+				"show_on_map": true
+			},
+			"coordinates": [ -222.75, -1175.375 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Oakhust Clinic Basement",
+				"show_on_map": true
+			},
+			"coordinates": [ 1890.15, 714.59 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"name": "Red Bush",
+				"show_on_map": true
+			},
+			"coordinates": [ 1932.875, 2860.125 ]
+		}
+    ]
+}

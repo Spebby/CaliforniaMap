@@ -60,6 +60,222 @@
                 "show_on_map": true
             },
             "coordinates": [295.8307, 142.8299]
-        }
+        },
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Bixby Bridge",
+				"show_on_map": true
+			},
+			"coordinates": [-188.8937, 50.96228]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Big Sur",
+				"show_on_map": true
+			},
+			"coordinates": [-398.7432, -385.0543]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Monterey",
+				"show_on_map": true
+			},
+			"coordinates": [-463.0864, 659.287]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Enzo Winery",
+				"show_on_map": true
+			},
+			"coordinates": [386.7661, -559.9352]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Cache 42",
+				"show_on_map": true
+			},
+			"coordinates": [1182.38, 600.9067]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Gonzales Estate",
+				"show_on_map": true
+			},
+			"coordinates": [11.01868, 562.5359]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Costa Mesa Mall",
+				"show_on_map": true
+			},
+			"coordinates": [529.1205, 876.1678]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Palm Springs",
+				"show_on_map": true
+			},
+			"coordinates": [1669.091, -590.4673]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "El Portal",
+				"show_on_map": true
+			},
+			"coordinates": [1291.242, 1682.481]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Oakhurst",
+				"show_on_map": true
+			},
+			"coordinates": [1782.095, 706.7794]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Fort Mojave",
+				"show_on_map": true
+			},
+			"coordinates": [2236.913, -823.5648]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Hills Resort",
+				"show_on_map": true
+			},
+			"coordinates": [-139.4811, -680.7318]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Moss Landing",
+				"show_on_map": true
+			},
+			"coordinates": [-570.5002, 1622.627]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Scotts Valley",
+				"show_on_map": true
+			},
+			"coordinates": [556.7952, 3570.347]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Nevada Border",
+				"show_on_map": true
+			},
+			"coordinates": [1193.561, -1173.139]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Catalina Island",
+				"show_on_map": true
+			},
+			"coordinates": [-836.104, -873.3193]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Kergon Quarry",
+				"show_on_map": true
+			},
+			"coordinates": [2274.415, 226.9734]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Death Valley",
+				"show_on_map": true
+			},
+			"coordinates": [1757.673, -1006.423]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Mori Point",
+				"show_on_map": true
+			},
+			"coordinates": [-1137.878, 3012.515]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "The Oasis",
+				"show_on_map": true
+			},
+			"coordinates": [189.9772, 1382.592]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Presto Valley",
+				"show_on_map": true
+			},
+			"coordinates": [855.0563, 2684.2]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Elkhorn Slough",
+				"show_on_map": true
+			},
+			"coordinates": [-253.6144, 1990.297]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Bare Man",
+				"show_on_map": true
+			},
+			"coordinates": [1845.802, -165.9938]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "D. Lanos Storage",
+				"show_on_map": true
+			},
+			"coordinates": [-219.7262, -1157.773]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Mesadyne",
+				"show_on_map": true
+			},
+			"coordinates": [-3728.716, -3614.252]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Berkeley",
+				"show_on_map": true
+			},
+			"coordinates": [118.7316, 3060.164]
+		},
+		{
+			"type": "Point",
+			"properties": { 
+				"title": "Mt. Whitney",
+				"show_on_map": true
+			},
+			"coordinates": [3435.098, 1009.591]
+		}
     ]
 }

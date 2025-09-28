@@ -29,6 +29,33 @@
                 "show_on_map": true
             },
             "coordinates": [ 1600.617, 2114.043 ]
-        }
+        },
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Secret",
+				"name": "Bandit Bunker Entrance",
+				"show_on_map": true
+			},
+			"coordinates": [ -1149.75, 2950.625 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Secret",
+				"name": "Generator & Cable",
+				"show_on_map": true
+			},
+			"coordinates": [ 27.25, 2010.25 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Secret",
+				"name": "Gloger Safe",
+				"show_on_map": true
+			},
+			"coordinates": [ 1867.625, -182.5 ]
+		}
     ]
 }

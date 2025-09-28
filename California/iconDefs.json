@@ -71,6 +71,15 @@
         "popupAnchor":  [0, 0]
     },
 
+	"KeycardDoor": {
+		"path": "assets/icons/KeycardDoorIcon.png",
+		"iconSize":     [32, 32],
+		"iconAnchor":   [16, 16],
+		"shadowSize":   [32, 32],
+		"shadowAnchor": [16, 16],
+		"popupAnchor":  [0, 0]
+	},
+
     "Well": {
         "path": "assets/icons/WellIcon.png",
         "iconSize":     [16, 16],

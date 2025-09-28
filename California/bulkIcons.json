@@ -5,6 +5,7 @@
         "data/mines.geojson",
         "data/bus.geojson",
         "data/bunkers.geojson",
+		"data/keycarddoors.geojson",
         "data/wells.geojson",
         "data/jugs.geojson",
         "data/deadzoneIcon.geojson",
