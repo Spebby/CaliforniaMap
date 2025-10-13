@@ -9,7 +9,31 @@
                 "name": "Greenwater Campground Well",
                 "show_on_map": true
             },
-            "coordinates": [ 661, -403 ]
+            "coordinates": [ 651, -432 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "name": "Enzo Winery Well",
+                "show_on_map": true
+            },
+            "coordinates": [ 319, -508 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "name": "Altruist Well",
+                "show_on_map": true
+            },
+            "coordinates": [ 1840, 1591 ]
+        },
+        {
+            "type": "Point",
+            "properties": {
+                "name": "Twain Harte Well",
+                "show_on_map": true
+            },
+            "coordinates": [ 2035, 3772 ]
         }
     ]
 }

@@ -56,6 +56,60 @@
 				"show_on_map": true
 			},
 			"coordinates": [ 1867.625, -182.5 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Biker",
+				"name": "Austy",
+				"show_on_map": true
+			},
+			"coordinates": [ 1374.93, 1296.01 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Biker",
+				"name": "Austy",
+				"show_on_map": true
+			},
+			"coordinates": [ 1435.415, 1524.732 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Biker",
+				"name": "Austy",
+				"show_on_map": true
+			},
+			"coordinates": [ 1729.113, 1125.123 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Biker",
+				"name": "Austy",
+				"show_on_map": true
+			},
+			"coordinates": [ 2019.568, 1935.304 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Biker",
+				"name": "Austy",
+				"show_on_map": true
+			},
+			"coordinates": [ 2131.879, 1650.47 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"icon": "Biker",
+				"name": "Austy",
+				"show_on_map": true
+			},
+			"coordinates": [ 1863.804, -193.234 ]
 		}
     ]
 }

@@ -98,6 +98,15 @@
         "popupAnchor":  [0, 0]
     },
 
+	"Fuel": {
+        "path": "assets/icons/FuelIcon.png",
+        "iconSize":     [16, 16],
+        "iconAnchor":   [8, 8],
+        "shadowSize":   [16, 16],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
     "Gnome": {
         "path": "assets/icons/GnomeIcon.png",
         "iconSize":     [32, 32],
@@ -109,6 +118,15 @@
 
     "Secret": {
         "path": "assets/icons/SecretIcon.png",
+        "iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+    },
+
+	"Biker": {
+        "path": "assets/icons/Biker.png",
         "iconSize":     [32, 32],
         "iconAnchor":   [16, 16],
         "shadowSize":   [32, 32],
