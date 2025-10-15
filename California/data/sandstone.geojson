@@ -1,0 +1,2767 @@
+{
+  "type": "FeatureCollection",
+  "category": "Sandstone",
+  "icon": "Sandstone",
+  "features": [
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        653.5793,
+        -1302.259
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        647.7678,
+        -1300.726
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        756.9337,
+        -1300.648
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        699.6275,
+        -1282.392
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        707.0981,
+        -1284.671
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        760.9267,
+        -1213.97
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        874.1148,
+        -1299.632
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        840.7937,
+        -1178.19
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        844.9809,
+        -1186.954
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        769.3188,
+        -1219.641
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        795.4802,
+        -1180.161
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        785.6086,
+        -1084.168
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        785.469,
+        -1076.424
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        879.0363,
+        -988.7133
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        877.2318,
+        -1000.573
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        924.4566,
+        -1307.848
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        956.2667,
+        -1147.674
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        960.8413,
+        -1145.262
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1120.175,
+        -1229.987
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1126.776,
+        -1235.946
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1105.826,
+        -1113.422
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1100.024,
+        -1102.697
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1025.969,
+        -994.3838
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1033.236,
+        -993.1115
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1122.232,
+        -817.1415
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1124.094,
+        -824.7953
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1088.839,
+        -664.8835
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1092.756,
+        -671.9984
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1173.991,
+        -1313.869
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1228.01,
+        -1317.026
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1264.799,
+        -1270.144
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1251.934,
+        -1269.922
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1246.834,
+        -1127.528
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1210.342,
+        -1127.807
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1210.003,
+        -1121.097
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1279.188,
+        -1024.777
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1272.09,
+        -1030.503
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1191.859,
+        -1008.481
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1173.671,
+        -1010.344
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1192.722,
+        -1002.423
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1186.536,
+        -721.1664
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1236.898,
+        -629.9009
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1219.893,
+        -600.9645
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1210.068,
+        -632.4098
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1207.426,
+        -484.0838
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1230.226,
+        -487.1526
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1377.795,
+        -1305.177
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1374.386,
+        -1322.43
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1392.867,
+        -1308.65
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1384.09,
+        -1032.354
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1379.088,
+        -1037.318
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1309.039,
+        -944.114
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1313.932,
+        -910.8188
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1309.454,
+        -918.9559
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1386.61,
+        -922.0117
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1370.42,
+        -832.305
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1332.258,
+        -744.5532
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1319.067,
+        -658.2471
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1360.661,
+        -683.0815
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1351.467,
+        -752.1985
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1372.551,
+        -620.0641
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1370.303,
+        -626.7595
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1357.429,
+        -577.8094
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1298.279,
+        -465.1671
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1406.339,
+        -493.1987
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1403.272,
+        -487.4246
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1526.898,
+        -1232.209
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1501.806,
+        -1271.412
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1505.344,
+        -1264.047
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1418.368,
+        -898.5145
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1414.042,
+        -883.4077
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1427.798,
+        -893.4822
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1434.661,
+        -815.6917
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1500.722,
+        -661.485
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1496.613,
+        -653.7532
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1481.606,
+        -518.1875
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1524.261,
+        -568.7759
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1530.289,
+        -572.345
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1529.465,
+        -495.2596
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1502.341,
+        -436.6082
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1443.417,
+        -462.1268
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1485.34,
+        -323.3431
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1515.235,
+        -352.7069
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1488.263,
+        -241.1314
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1497.974,
+        -244.1909
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1591.454,
+        -1291.197
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1586.816,
+        -1293.313
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1618.877,
+        -1305.908
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1577.444,
+        -1246.302
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1580.832,
+        -1214.567
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1564.341,
+        -1229.902
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1596.119,
+        -1223.26
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1571.45,
+        -1193.538
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1549.016,
+        -1228.437
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1557.043,
+        -1194.522
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1599.364,
+        -1098.158
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1573.703,
+        -901.7566
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1638.994,
+        -1007.051
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1638.157,
+        -1000.741
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1578.385,
+        -876.2682
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1590.314,
+        -888.3948
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1644.77,
+        -799.6172
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1637.477,
+        -786.5032
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1565.685,
+        -690.7875
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1561.274,
+        -686.4772
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1590.499,
+        -619.6149
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1583.183,
+        -586.2002
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1548.675,
+        -469.5681
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1663.644,
+        -399.981
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1657.374,
+        -403.0186
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1572.7,
+        -247.5917
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1623.112,
+        -242.2251
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1621.404,
+        -250.0284
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1573.833,
+        -241.1534
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1595.185,
+        -253.3204
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1631.062,
+        -107.515
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1632.456,
+        -114.4677
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1780.34,
+        -1299.753
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1775.323,
+        -1302.665
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1726.168,
+        -1327.34
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1747.762,
+        -1270.946
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1784.317,
+        -1042.224
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1722.993,
+        -1080.377
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1709.642,
+        -925.037
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1700.938,
+        -927.4766
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1738.8,
+        -971.4871
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1729.427,
+        -1019.477
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1721.274,
+        -1016.29
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1751.204,
+        -772.3602
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1741.25,
+        -783.5053
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1786.728,
+        -837.3742
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1782.785,
+        -841.9296
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1734.213,
+        -661.059
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1743.565,
+        -662.4194
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1747.873,
+        -332.8301
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1746.355,
+        -341.5734
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1756.18,
+        -179.7478
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1701.021,
+        -162.2197
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1694.894,
+        -39.71143
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1876.445,
+        -1311.559
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1869.967,
+        -1310.727
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1855.004,
+        -1156.912
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1914.703,
+        -1244.246
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1805.344,
+        -1100.592
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1849.385,
+        -1151.594
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1798.84,
+        -1129.291
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1855.63,
+        -1094.057
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1908.332,
+        -901.4767
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1894.562,
+        -947.7324
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1887.037,
+        -937.4059
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1897.41,
+        -938.2796
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1841.791,
+        -1015.994
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1850.681,
+        -1017.709
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1880.05,
+        -782.6245
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1875.385,
+        -787.4465
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1793.475,
+        -650.9675
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1849.729,
+        -67.53717
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1854.065,
+        -62.74634
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1998.078,
+        -1296.366
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1987.387,
+        -1306.156
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1921.214,
+        -1245.13
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2020.173,
+        -1231.73
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2014.979,
+        -1239.258
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1993.805,
+        -1081.044
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1982.886,
+        -1136.988
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1972.792,
+        -1141.077
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1997.78,
+        -1014.09
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2019.142,
+        -795.4481
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2016.364,
+        -789.0178
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1986.004,
+        -850.1172
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1993.136,
+        -847.2458
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1945.571,
+        -857.0865
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2046.38,
+        -667.9009
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1987.167,
+        -758.0029
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1957.585,
+        -657.4313
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2019.487,
+        -385.4835
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1945.793,
+        -467.1676
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1938.157,
+        -465.2815
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2026.279,
+        -377.6786
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1934.84,
+        -248.2358
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1926.775,
+        -185.3304
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1931.494,
+        -184.8505
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2073.009,
+        -777.5797
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2127.26,
+        -737.3716
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2050.301,
+        -674.7888
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2111.864,
+        -716.335
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2115.381,
+        -712.3239
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2062.402,
+        -527.1754
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2175.096,
+        -516.7799
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2058.15,
+        -453.4116
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2133.699,
+        -278.6804
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2138.893,
+        -297.1335
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2185.948,
+        -1214.298
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2192.677,
+        -1212.104
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2227.562,
+        -1172.195
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2224.514,
+        -1164.25
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2238.083,
+        -1114.551
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2328.898,
+        -1127.61
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2335.907,
+        -1117.086
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2322.427,
+        -1115.023
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2320.381,
+        -1082.703
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2322.969,
+        -1075.256
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2369.111,
+        -1005.549
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2369.876,
+        -1013.541
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2398.325,
+        -930.4603
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2410.137,
+        -1005.364
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2395.876,
+        -814.6184
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2430.606,
+        -809.8335
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2318.843,
+        -859.1528
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2323.275,
+        -867.9953
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2368.784,
+        -850.6792
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2371.242,
+        -720.543
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2366.79,
+        -767.4252
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2380.107,
+        -331.8574
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2398.667,
+        -379.5626
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2375.929,
+        -366.9862
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2433.962,
+        -925.9733
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2440.4,
+        -919.9583
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3448.249,
+        -156.5385
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3411.003,
+        -207.6114
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3447.572,
+        -206.6559
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3408.788,
+        -158.4868
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3386.079,
+        -198.3539
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3358.012,
+        -177.6406
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3498.012,
+        -220.1133
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3472.233,
+        -170.9703
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3490.251,
+        -136.6509
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3536.337,
+        -172.7791
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3510.684,
+        -186.2242
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Sandstone",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3500.438,
+        -101.0078
+      ]
+    }
+  ]
+}

@@ -9,17 +9,25 @@
             "Listed Locations",
             "Airdrop",
             "Bus",
-            "Safezone"
+            "Safezone",
+			"Deadzone"
         ],
         "layers": [
             {
                 "name": "Chart",
-                "path": "assets/Chart.png"
+                "path": "assets/Chart.png",
+				"base": true
             },
             {
                 "name": "Satellite",
-                "path": "assets/Satellite.png"
-            }
+                "path": "assets/Satellite.png",
+				"base": true
+            },
+			{
+				"name": "Grid",
+				"path": "asset/Grid.png",
+				"base": false
+			}
         ],
         "bounds": {
             "n":  4095,

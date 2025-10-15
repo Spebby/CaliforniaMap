@@ -1,0 +1,295 @@
+{
+  "type": "FeatureCollection",
+  "category": "Geyser",
+  "icon": "Geyser",
+  "features": [
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        66.81159,
+        2276.617
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        41.98369,
+        2271.32
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        22.42331,
+        2268.422
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        85.21546,
+        2258.599
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        125.6816,
+        2185.76
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        38.04919,
+        2297.822
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1316.237,
+        2432.37
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1424.582,
+        2299.317
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1531.447,
+        2499.439
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1541.855,
+        2383.776
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1635.917,
+        2323.982
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1555.423,
+        2641.792
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1565.421,
+        2631.747
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1560.258,
+        2617.247
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1580.935,
+        2604.906
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1790.688,
+        2379.355
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1909.915,
+        1067.102
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1864.071,
+        1053.398
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1875.94,
+        1054.521
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1801.96,
+        2337.412
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1904.057,
+        2325.604
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2766.66,
+        1826.617
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2828.566,
+        1762.063
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Geyser",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2851.91,
+        1769.354
+      ]
+    }
+  ]
+}

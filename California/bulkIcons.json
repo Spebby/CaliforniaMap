@@ -6,17 +6,24 @@
         "data/bus.geojson",
         "data/bunkers.geojson",
 		"data/cinirite.geojson",
+		"data/food.geojson",
 		"data/fuel.geojson",
+		"data/geyser.geojson",
 		"data/gunpowder.geojson",
 		"data/keycarddoors.geojson",
+		"data/metal.geojson",
         "data/wells.geojson",
         "data/jugs.geojson",
         "data/deadzoneIcon.geojson",
         "data/npcs.geojson",
+		"data/sandstone.geojson",
         "data/secrets.geojson",
 		"data/sentry.geojson",
 		"data/tar.geojson",
         "data/locationsListed.geojson",
-        "data/locationsUnlisted.geojson"
+        "data/locationsUnlisted.geojson",
+		"data/moai.geojson",
+		"data/notes.geojson",
+		"data/printer.geojson"
     ]
 }

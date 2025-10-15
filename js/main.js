@@ -70,12 +70,26 @@ function main() {
     var layerControl = null;
     {
         const bounds = [xy(CONFIG.bounds.w, CONFIG.bounds.s), xy(CONFIG.bounds.e, CONFIG.bounds.n)];
-        var overlay = {};
+        var baseLayer = {};
+		var overlay = {};
+		
+
         CONFIG.layers.forEach(layer => {
-            overlay[layer.name] = L.imageOverlay(`${assetPath}${layer.path}`, bounds);
-        });
-        overlay[CONFIG.initialState].addTo(map);
-        layerControl = L.control.layers(overlay, {}).addTo(map);
+			const imageUrl = `${assetPath}${layer.path}`;
+			const imageOverlay = L.imageOverlay(imageUrl, bounds, {
+				opacity: 1,
+				interactive: false
+			});
+
+			if (layer.base) {
+				baseLayer[layer.name] = imageOverlay;
+			} else {
+				overlay[layer.name] = imageOverlay;
+			}
+		});
+
+        baseLayer[CONFIG.initialState].addTo(map);
+        layerControl = L.control.layers(baseLayer, overlay).addTo(map);
     }
 
     // Add the image overlay to the map (and make sure it's not part of the layer control)
@@ -109,31 +123,29 @@ function main() {
 
     // Setup Layers
     const defaultSet = CONFIG.defaultOn;
-    Promise.all(promises)
-        .then(() => {
-            console.log(categories);
+    Promise.all(promises).then(() => {
+		console.log(categories);
 
-            let sortedKeys = ["Listed Locations", "Unlisted Locations", ...Object.keys(categories).sort().filter(key => !["Listed Locations", "Unlisted Locations"].includes(key))];
-            sortedKeys.forEach(key => {
-                let layer = categories[key];
-                if (defaultSet.includes(key)) {
-                    layer.addTo(map);
-                }
-                layerControl.addOverlay(layer, key);
-            });
-        })
-        .catch(error => {
-            console.log('Error processing all layers:', error);
-        });
-
-
+		let sortedKeys = ["Listed Locations", "Unlisted Locations", ...Object.keys(categories).sort().filter(key => !["Listed Locations", "Unlisted Locations"].includes(key))];
+		sortedKeys.forEach(key => {
+			let layer = categories[key];
+			if (defaultSet.includes(key)) {
+				layer.addTo(map);
+			}
+			layerControl.addOverlay(layer, key);
+		});
+	})
+	.catch(error => {
+		console.log('Error processing all layers:', error);
+	});
 
     function onMapClick(e) {
+		var ll = e.latlng;
+
         L.popup()
             .setLatLng(e.latlng)
-            .setContent(`${e.latlng.toString()}`)
+            .setContent(`${ll.lng.toFixed(2)}, ${ll.lat.toFixed(2)}`)
             .openOn(map);
     }
-
-    map.on('click', onMapClick);
+	map.on('click', onMapClick);
 }

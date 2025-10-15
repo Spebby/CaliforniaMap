@@ -126,7 +126,7 @@
     },
 
 	"Biker": {
-        "path": "assets/icons/Biker.png",
+        "path": "assets/icons/BikerIcon.png",
         "iconSize":     [32, 32],
         "iconAnchor":   [16, 16],
         "shadowSize":   [32, 32],
@@ -208,6 +208,42 @@
 
 	"Boomflower": {
 		"path": "assets/icons/BoomflowerIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Sandstone": {
+		"path": "assets/icons/SandstoneIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Moai": {
+		"path": "assets/icons/MoaiIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Geyser": {
+		"path": "assets/icons/SecretIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Note": {
+		"path": "assets/icons/NoteIcon.png",
 		"iconSize":     [24, 24],
         "iconAnchor":   [12, 12],
         "shadowSize":   [24, 24],

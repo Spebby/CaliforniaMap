@@ -1,0 +1,499 @@
+{
+  "type": "FeatureCollection",
+  "category": "Moai",
+  "icon": "Moai",
+  "features": [
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3613.72,
+        -3705.433
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3684.35,
+        -3705.73
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3684.353,
+        -3706.912
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3699.418,
+        -3544.381
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1208.665,
+        1798.847
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1031.744,
+        498.4265
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -935.1982,
+        399.8218
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -962.0718,
+        3971.73
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -758.4785,
+        -1949.284
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        200.9524,
+        1375.818
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        462.8541,
+        253.9258
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        585.6693,
+        905.5515
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        588.7088,
+        900.6964
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        586.4897,
+        896.7416
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        580.3204,
+        902.9569
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        583.7324,
+        900.1208
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        707.1145,
+        -138.1268
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        708.5894,
+        -138.4787
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1384.884,
+        1537.332
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1511.039,
+        -1974.989
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1429.584,
+        3037.623
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1411.931,
+        3020.177
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1414.847,
+        3017.598
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1767.673,
+        2567.342
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1665.137,
+        3938.99
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1870.631,
+        -164.7195
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1818.134,
+        3594.256
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1982.078,
+        -37.30944
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1968.256,
+        466.9129
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1996.111,
+        1387.132
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1936.762,
+        1417.854
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1952.105,
+        2861.645
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2064.438,
+        1175.18
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2272.032,
+        182.15
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2261.001,
+        575.7883
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2225.761,
+        1502.79
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2177.591,
+        2551.412
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2284.132,
+        2701.974
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2286.346,
+        2697.679
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2288.486,
+        2693.558
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Moai",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        3034.257,
+        -1983.031
+      ]
+    }
+  ]
+}

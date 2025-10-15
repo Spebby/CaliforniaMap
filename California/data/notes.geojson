@@ -1,0 +1,1567 @@
+{
+  "type": "FeatureCollection",
+  "category": "Notes",
+  "icon": "Note",
+  "features": [
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3730.472,
+        -3692.902
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3621.573,
+        -3677.802
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3588.549,
+        -3678.099
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -3619.294,
+        -3674.628
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1184.677,
+        598.9095
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1224.511,
+        627.4639
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1224.187,
+        627.6063
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1214.431,
+        562.2233
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1213.869,
+        562.6997
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1226.965,
+        541.3939
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1277.822,
+        1844.119
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -708.6409,
+        1507.893
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        84.50855,
+        3035.046
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        481.5079,
+        3553.792
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -748.6379,
+        1535.116
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -724.5784,
+        1458.574
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -729.4467,
+        1578.259
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -682.8934,
+        3397.882
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -517.3927,
+        -190.2628
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -523.5478,
+        680.6372
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -516.3987,
+        3424.536
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -398.9029,
+        -546.756
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -459.5924,
+        593.9161
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -423.1158,
+        616.0638
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -401.6713,
+        668.5058
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -429.6164,
+        731.1614
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -411.5338,
+        665.4428
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -419.4563,
+        1610.716
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -322.1348,
+        -1216.974
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -316.6088,
+        1627.194
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -310.6965,
+        3856.59
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -241.3843,
+        -145.941
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -8.563843,
+        3196.454
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        201.5321,
+        1429.802
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1400.128,
+        3023.137
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1534.636,
+        -1941.458
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1832.541,
+        -171.6422
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2134.69,
+        1788.481
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -195.5091,
+        130.1116
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -92.69249,
+        -1311.003
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -116.486,
+        -633.7388
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2.637696,
+        624.2115
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        254.166,
+        120.05
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        286.2157,
+        116.831
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        258.308,
+        -1224.489
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        315.3114,
+        76.19094
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        289.1585,
+        119.0329
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        298.1335,
+        119.0263
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        403.36,
+        -519.9073
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        411.1782,
+        -501.686
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        509.5945,
+        892.6081
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        579.712,
+        873.178
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        845.9504,
+        2674.436
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1353.425,
+        2227.757
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1430.643,
+        3041.338
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1790.331,
+        686.8489
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1915.373,
+        2877.793
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        467.3074,
+        870.1081
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        489.2304,
+        3544.785
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        398.7077,
+        3783.576
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        699.4124,
+        -691.5046
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        411.8316,
+        3797.173
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        396.1904,
+        3789.099
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        707.1677,
+        -705.7908
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        403.0116,
+        3755.119
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        710.6523,
+        -716.9847
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        396.1905,
+        3784.596
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        665.6647,
+        -679.8443
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        513.8708,
+        893.1081
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        512.0496,
+        866.3806
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        559.9668,
+        910.9639
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        563.3703,
+        923.8898
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        538.2829,
+        937.2303
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        574.976,
+        3572.638
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        581.907,
+        3579.125
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        597.248,
+        3636.684
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        512.8436,
+        3807.396
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        567.4044,
+        3604.342
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        635.0793,
+        3597.479
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        572.7786,
+        3598.794
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        676.8029,
+        -717.5078
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        640.7949,
+        -1.10265
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        683.956,
+        30.96869
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        640.9493,
+        30.27327
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        705.2673,
+        51.16458
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        655.7004,
+        3603.932
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        804.6503,
+        -30.6434
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        786.2441,
+        1668.651
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1186.829,
+        -1307.912
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1203.866,
+        -1287.24
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1228.004,
+        -1214.067
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1263.656,
+        572.1656
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1255.834,
+        573.5096
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1221.648,
+        587.5319
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1360.202,
+        -531.4973
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1377.051,
+        -541.4177
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1377.39,
+        -541.2354
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1351.097,
+        -549.4575
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1397.0,
+        -524.1091
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1395.944,
+        -501.1522
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1283.296,
+        595.7791
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1303.338,
+        579.8467
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1300.303,
+        1650.874
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1286.906,
+        1651.845
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1286.195,
+        1666.446
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1348.942,
+        1751.054
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1368.241,
+        2502.498
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2260.407,
+        1311.433
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1365.419,
+        2510.781
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1367.226,
+        2516.972
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1660.404,
+        -575.0356
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1655.735,
+        3371.725
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1771.801,
+        3649.202
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1783.362,
+        3693.242
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1776.297,
+        3720.201
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1794.584,
+        -1029.685
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1832.541,
+        -171.6422
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1873.922,
+        -186.5906
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1873.922,
+        -186.5906
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1832.578,
+        642.696
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1846.832,
+        657.4941
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1896.257,
+        2863.078
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1816.186,
+        3709.119
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1816.626,
+        3706.774
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1830.802,
+        3611.189
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1869.482,
+        3708.326
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1822.166,
+        3703.929
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1822.638,
+        3701.063
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1826.746,
+        3667.93
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Note",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1818.432,
+        3711.254
+      ]
+    }
+  ]
+}

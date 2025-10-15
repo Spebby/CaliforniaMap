@@ -1,0 +1,4051 @@
+{
+  "type": "FeatureCollection",
+  "category": "Food",
+  "icon": "Carrot",
+  "features": [
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1065.862,
+        3271.115
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1065.389,
+        3269.841
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1096.829,
+        3403.806
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -1096.616,
+        3401.831
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -752.2831,
+        1525.654
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -755.8544,
+        1525.407
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -754.2491,
+        1527.564
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -556.4825,
+        692.0903
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -558.5448,
+        693.3453
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -472.7881,
+        -316.3437
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -472.3757,
+        -318.8511
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -470.6491,
+        -315.6417
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -458.4666,
+        -188.2306
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -460.5471,
+        -187.8055
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -401.2296,
+        832.4592
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -402.7724,
+        829.0932
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -404.7969,
+        829.3278
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -374.2548,
+        -669.3583
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -372.1944,
+        -673.8104
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -371.5752,
+        -671.6265
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -302.3391,
+        776.3105
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -302.6826,
+        773.7811
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -299.6935,
+        774.5466
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -273.9479,
+        815.3318
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -271.8414,
+        814.6156
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -193.7916,
+        -849.3725
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -191.6933,
+        -850.0249
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -192.9606,
+        -853.4693
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -233.2031,
+        3356.829
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -236.0234,
+        3359.894
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -235.5458,
+        3356.803
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -12.50574,
+        2673.996
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -14.26099,
+        2672.42
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        99.26377,
+        -190.525
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        101.6185,
+        -188.3921
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        101.0496,
+        -190.9802
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        253.7375,
+        -1208.508
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        251.0423,
+        -1209.602
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        250.0622,
+        -1207.206
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        202.5542,
+        247.643
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        205.5075,
+        249.8157
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        208.3917,
+        251.8896
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        205.6431,
+        246.6945
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        208.9643,
+        248.9846
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        154.8304,
+        288.1107
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        154.8828,
+        285.4751
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        151.0961,
+        286.332
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        215.2235,
+        1370.84
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        216.4519,
+        1373.041
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        218.7899,
+        1373.405
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        237.9223,
+        1448.318
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        239.5841,
+        1447.082
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        158.0905,
+        2184.607
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        155.8666,
+        2181.382
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        155.8171,
+        2184.17
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        220.5396,
+        3563.389
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        221.2092,
+        3559.584
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        219.1948,
+        3561.702
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        281.9654,
+        1043.806
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        287.0983,
+        1044.44
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        285.5978,
+        1042.608
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        259.4533,
+        2461.345
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        260.2241,
+        2457.373
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        256.085,
+        2459.017
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        259.0207,
+        2658.969
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        258.1206,
+        2656.969
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        257.6145,
+        2659.035
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        546.4571,
+        -1033.624
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        549.754,
+        -1032.12
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        551.6383,
+        -1035.034
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        530.1279,
+        -491.754
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        529.576,
+        -489.1046
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        526.5411,
+        -490.6354
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        604.4941,
+        -98.1599
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        602.9738,
+        -96.46341
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        600.6608,
+        -97.33786
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        536.6539,
+        4059.304
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        536.3079,
+        4057.063
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        534.2095,
+        4056.666
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        653.3308,
+        -918.8766
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        656.4139,
+        -920.0895
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        652.6801,
+        -921.7888
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        700.0934,
+        -962.1119
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        699.9349,
+        -958.8285
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        698.032,
+        -956.8477
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        703.6288,
+        134.4389
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        701.6492,
+        137.7746
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        709.2273,
+        306.0735
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        709.5703,
+        303.5976
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        707.3762,
+        303.2682
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        707.4506,
+        300.1653
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        688.283,
+        324.0526
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        688.1328,
+        326.7264
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        692.0392,
+        326.4371
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        758.3419,
+        1115.741
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        761.3235,
+        1115.135
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        760.6644,
+        1112.12
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        735.8784,
+        2768.787
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        735.1709,
+        2770.519
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        737.6218,
+        2771.501
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        827.5476,
+        -589.2168
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        831.3901,
+        -589.1637
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        831.2358,
+        -586.252
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        886.7756,
+        3395.063
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        884.9763,
+        3397.272
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        882.7676,
+        3393.991
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1020.269,
+        999.626
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1017.916,
+        997.0266
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1022.406,
+        998.0004
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        949.2906,
+        2753.844
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        947.8513,
+        2752.927
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        946.4933,
+        2753.916
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1027.245,
+        2649.868
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1027.169,
+        2652.022
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1030.008,
+        2650.466
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1048.166,
+        3953.957
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1047.389,
+        3956.817
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1041.503,
+        3954.205
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1176.62,
+        3994.783
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1180.224,
+        3993.126
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1183.276,
+        3995.549
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1381.296,
+        386.8298
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1379.421,
+        388.0409
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1377.771,
+        388.9327
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1353.059,
+        2891.341
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1350.032,
+        2890.745
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1351.944,
+        2894.039
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1490.054,
+        2096.271
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1491.605,
+        2093.643
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1489.716,
+        2093.525
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1645.709,
+        827.9366
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1648.046,
+        828.6353
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1646.36,
+        829.9019
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1650.32,
+        828.8473
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1595.097,
+        2984.685
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1597.511,
+        2987.971
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1594.523,
+        2988.979
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1544.251,
+        3152.337
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1542.977,
+        3155.73
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1541.676,
+        3153.306
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1704.046,
+        776.9559
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1705.427,
+        777.0621
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1743.177,
+        919.1411
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1745.454,
+        921.5602
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1772.146,
+        1085.412
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1772.563,
+        1084.043
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1770.012,
+        1086.233
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1721.296,
+        1093.233
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1722.393,
+        1092.38
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1721.693,
+        1090.516
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1726.05,
+        2085.33
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1724.969,
+        2085.386
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1769.145,
+        3233.049
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1769.582,
+        3235.771
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1772.995,
+        3234.699
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1677.537,
+        3450.31
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1674.618,
+        3451.185
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1675.822,
+        3448.67
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1760.196,
+        3733.786
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1763.777,
+        3734.842
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1767.082,
+        3735.732
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1867.997,
+        1573.707
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1866.214,
+        1573.09
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1864.495,
+        1572.909
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1807.873,
+        1609.141
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1808.916,
+        1607.957
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1803.035,
+        2062.301
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1800.896,
+        2061.49
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1801.034,
+        2060.452
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2042.551,
+        762.0433
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2043.066,
+        763.6492
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2046.445,
+        761.7173
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1984.141,
+        2067.21
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1982.146,
+        2068.681
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1980.273,
+        2066.783
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2165.717,
+        3535.233
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2169.234,
+        3536.244
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2082.757,
+        3755.009
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2093.144,
+        3755.059
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2102.372,
+        3758.941
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2084.874,
+        3759.099
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2081.713,
+        3762.872
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2093.163,
+        3763.052
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2102.397,
+        3766.828
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2096.714,
+        3767.001
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2090.155,
+        3766.917
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2236.571,
+        797.92
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2241.315,
+        800.3215
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2240.68,
+        797.5582
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2221.333,
+        3437.322
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2223.159,
+        3440.979
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2220.842,
+        3445.091
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2224.737,
+        3445.228
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2222.975,
+        3449.004
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2194.58,
+        3505.248
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2192.317,
+        3504.667
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2193.589,
+        3502.194
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2418.957,
+        2243.416
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2418.395,
+        2245.032
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2418.631,
+        2247.291
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2325.17,
+        3031.991
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2321.982,
+        3031.73
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2323.331,
+        3034.798
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2311.673,
+        3198.105
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2359.501,
+        3227.029
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2358.0,
+        3229.278
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2356.204,
+        3226.979
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Carrot",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2310.706,
+        3200.602
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -183.5784,
+        -119.6161
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -185.1358,
+        -118.0436
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -182.5634,
+        -117.3822
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -55.39561,
+        1296.987
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -53.20254,
+        1296.153
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        -54.24083,
+        1299.255
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        120.0007,
+        925.6335
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        118.6851,
+        929.6807
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        121.4204,
+        930.024
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        5.722773,
+        1329.109
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        6.527128,
+        1331.182
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2.94026,
+        1331.774
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        41.50588,
+        1964.856
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        42.19941,
+        1967.236
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        44.06599,
+        1965.003
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        81.276,
+        3461.398
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        81.55396,
+        3456.956
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        82.84789,
+        3459.819
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        300.4151,
+        2110.739
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        298.7897,
+        2111.776
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        296.6942,
+        2110.211
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        421.975,
+        941.8179
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        424.8022,
+        940.6154
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        421.8539,
+        938.8032
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        405.5196,
+        1122.402
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        405.7871,
+        1124.846
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        401.9717,
+        1125.542
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        567.8888,
+        -389.2689
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        566.0083,
+        -393.2904
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        565.0427,
+        -388.8566
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        594.0379,
+        2246.258
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        595.7346,
+        2244.658
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        597.6188,
+        2244.324
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        717.827,
+        -662.8566
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        719.9705,
+        -661.9338
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        716.7603,
+        -660.2911
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        675.3225,
+        1147.017
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        680.3381,
+        1143.801
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        677.4381,
+        1143.735
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        733.2081,
+        1165.935
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        733.3815,
+        1163.538
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        730.8419,
+        1164.108
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        708.487,
+        2355.801
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        706.3713,
+        2355.89
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        707.7916,
+        2353.606
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        761.8029,
+        2609.292
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        758.1588,
+        2609.754
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        759.8745,
+        2607.993
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        741.9205,
+        2721.032
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        738.6642,
+        2719.853
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        736.7066,
+        2722.094
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        908.0323,
+        3934.914
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        908.6281,
+        3937.078
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        904.2828,
+        3938.705
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1142.664,
+        3378.689
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1144.236,
+        3379.504
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1144.507,
+        3376.624
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1346.496,
+        2815.88
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1342.047,
+        2821.193
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1340.568,
+        2817.088
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1284.196,
+        3281.308
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1280.32,
+        3284.243
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1284.847,
+        3284.217
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1411.446,
+        2655.566
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1410.638,
+        2658.564
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1413.415,
+        2658.859
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1630.641,
+        2069.803
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1630.412,
+        2071.559
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1631.916,
+        2072.458
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1558.561,
+        2757.01
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1558.256,
+        2754.488
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1561.584,
+        2752.94
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1630.899,
+        2937.17
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1629.198,
+        2935.737
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1632.408,
+        2935.408
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1596.675,
+        3482.206
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1594.683,
+        3480.927
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1595.313,
+        3484.39
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1724.492,
+        878.5001
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1726.007,
+        880.0875
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1728.028,
+        879.2892
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1741.747,
+        837.8934
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1740.132,
+        839.6046
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1754.13,
+        1046.367
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1752.398,
+        1046.025
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1751.518,
+        1043.87
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1759.144,
+        3737.876
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1762.389,
+        3738.699
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1765.654,
+        3739.616
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1830.12,
+        1545.341
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1829.003,
+        1544.12
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1827.391,
+        1543.359
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1850.156,
+        1621.878
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1849.158,
+        1620.857
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1889.603,
+        3131.005
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1891.775,
+        3128.541
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1889.72,
+        3127.487
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1817.255,
+        3552.533
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1814.836,
+        3550.461
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        1812.826,
+        3553.131
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2092.728,
+        817.8206
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2093.202,
+        820.7618
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2094.867,
+        816.4291
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2061.02,
+        2969.912
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2063.81,
+        2968.896
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2062.451,
+        2966.697
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2074.515,
+        3441.603
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2075.701,
+        3437.223
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2073.097,
+        3437.694
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2082.251,
+        3791.073
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2087.871,
+        3791.044
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2099.212,
+        3791.097
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2090.845,
+        3794.958
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2090.542,
+        3787.096
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2087.364,
+        3782.916
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2099.359,
+        3782.927
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2271.479,
+        870.8925
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2270.303,
+        869.3822
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2272.944,
+        869.0764
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2226.57,
+        3452.841
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2222.664,
+        3452.968
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2224.542,
+        3457.019
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2229.871,
+        3457.438
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2344.005,
+        3668.583
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2345.39,
+        3670.05
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2341.729,
+        3670.219
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2497.952,
+        3529.916
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2500.0,
+        3528.276
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Potato",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [
+        2496.786,
+        3524.483
+      ]
+    }
+  ]
+}
