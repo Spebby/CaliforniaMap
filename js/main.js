@@ -64,7 +64,7 @@ fetchData(letPath).then(data => {
 function main() {
     const map = L.map('map', {
         crs: L.CRS.Simple,
-        minZoom: VIEW.hasOwnProperty("minzoom") ? VIEW.minzoom : -2
+        minZoom: VIEW.hasOwnProperty("minzoom") ? VIEW.minzoom : 1
     });
 
     var layerControl = null;

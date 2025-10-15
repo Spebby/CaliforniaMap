@@ -39,26 +39,6 @@
         },
         {
             "properties": {
-                "name": "DCC Bunker",
-                "show_on_map": true,
-                "no_weapons": true,
-                "no_buildables": true
-            },
-            "coordinates": [ 2291.085, 1825.538 ],
-            "scale": 149
-        },
-        {
-            "properties": {
-                "name": "86th Labratory",
-                "show_on_map": true,
-                "no_weapons": true,
-                "no_buildables": true
-            },
-            "coordinates": [ 329.3552, -3698.837 ],
-            "scale": 891
-        },
-        {
-            "properties": {
                 "name": "The Art Studio",
                 "show_on_map": true,
                 "no_weapons": true,

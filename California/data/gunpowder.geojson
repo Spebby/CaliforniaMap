@@ -1,0 +1,647 @@
+{
+  "type": "FeatureCollection",
+  "category": "Gunpowder",
+  "icon": "Gunpowder",
+  "features": [
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 925.2184, 3845.176 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1281.966, 1848.908 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1224.61, 1818.11 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1236.075, 1810.971 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1230.331, 1824.484 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1233.71, 1815.935 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1240.346, 1830.98 ]
+    },
+	    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1253.076, 1824.426 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1252.006, 1822.716 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1226.324, 1802.812 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1253.203, 1832.288 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1250.652, 1841.302 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1251.102, 1836.615 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1259.64, 1833.634 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1261.365, 1846.95 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1267.958, 1844.57 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1268.046, 1856.367 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -1269.064, 1861.847 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -386.4251, 1613.537 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -399.6944, 1617.396 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -400.5069, 1620.907 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -391.5291, 1615.512 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -409.6757, 1620.906 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -408.1024, 3936.478 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -383.9954, 1609.263 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -383.3269, 1612.568 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -381.312, 1612.975 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -374.6642, 1622.59 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -376.7024, 1622.26 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -314.2153, 1636.546 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -316.7646, 1646.034 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -315.8736, 1640.477 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ -322.3592, 1645.053 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 871.1802, -962.7339 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 888.2532, -977.5558 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 895.0499, -953.0515 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 899.2412, -919.5027 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 901.3721, -920.3207 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 922.7546, -908.6263 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 919.0693, -918.9207 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1148.73, 3570.655 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1269.583, -1223.19 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1280.387, -1222.51 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1779.613, 1561.596 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1859.214, 1593.615 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1805.998, 1605.848 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1797.813, 1576.799 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1798.692, 1564.584 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1821.158, 1550.577 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1819.497, 1557.535 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1876.799, 1568.631 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1802.424, 3735.074 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1810.606, 3732.507 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1813.847, 3743.424 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 1807.907, 3750.188 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 2349.027, 124.0739 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 2364.663, 128.256 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 2337.977, 132.4514 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Gunpowder",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 2318.87, 137.2301 ]
+    },
+	{
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3448.205, -164.8585 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3454.443, -212.7459 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3472.386, -263.889 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3474.891, -275.7121 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3509.017, -269.0309 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3509.867, -312.3186 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3467.154, -234.8208 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3494.165, -180.6568 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3496.563, -216.9089 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3482.031, -223.0634 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3526.679, -232.9147 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "icon": "Boomflower",
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 3470.299, -142.6956 ]
+    }
+  ]
+}
+

@@ -100,10 +100,10 @@
 
 	"Fuel": {
         "path": "assets/icons/FuelIcon.png",
-        "iconSize":     [16, 16],
-        "iconAnchor":   [8, 8],
-        "shadowSize":   [16, 16],
-        "shadowAnchor": [8, 8],
+        "iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
         "popupAnchor":  [0, 0]
     },
 
@@ -132,5 +132,86 @@
         "shadowSize":   [32, 32],
         "shadowAnchor": [8, 8],
         "popupAnchor":  [0, 0]
-    }
+    },
+
+	"Sentry": {
+		"path": "assets/icons/SentryIcon.png",
+		"iconSize":     [32, 32],
+        "iconAnchor":   [16, 16],
+        "shadowSize":   [32, 32],
+        "shadowAnchor": [8, 8],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Tar": {
+		"path": "assets/icons/TarIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Gunpowder": {
+		"path": "assets/icons/GunpowderIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Metal": {
+		"path": "assets/icons/MetalIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Charcoal": {
+		"path": "assets/icons/CharcoalIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Cinirite": {
+		"path": "assets/icons/CiniriteIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Carrot": {
+		"path": "assets/icons/CarrotIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Potato": {
+		"path": "assets/icons/PotatoIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	},
+
+	"Boomflower": {
+		"path": "assets/icons/BoomflowerIcon.png",
+		"iconSize":     [24, 24],
+        "iconAnchor":   [12, 12],
+        "shadowSize":   [24, 24],
+        "shadowAnchor": [6, 6],
+        "popupAnchor":  [0, 0]
+	}
 }

@@ -157,6 +157,22 @@
                 "show_on_map": true
             },
             "coordinates": [ 1401.878, -559.5173 ]
-        }
+        },
+		{
+			"type": "Point",
+			"properties": {
+				"title": "DCC Bunker",
+				"show_on_map": true
+			},
+			"coordinates": [ 2291.085, 1825.538 ]
+		},
+		{
+			"type": "Point",
+			"properties": {
+				"title": "86th Base",
+				"show_on_map": true
+			},
+			"coordinates": [ 329.3552, -3698.837 ]
+		}
     ]
 }

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "category": "Sentry Guns",
+    "icon": "Sentry",
+    "features": [
+		{
+		  "type": "Point",
+		  "properties": {
+			"name": "",
+			"show_on_map": true
+		  },
+		  "coordinates": [ -3736.246, -3680.618 ]
+		},
+		{
+		  "type": "Point",
+		  "properties": {
+			"name": "",
+			"show_on_map": true
+		  },
+		  "coordinates": [ 2133.32, -935.9877 ]
+		},
+		{
+		  "type": "Point",
+		  "properties": {
+			"name": "",
+			"show_on_map": true
+		  },
+		  "coordinates": [ 2239.329, -1046.571 ]
+		},
+		{
+		  "type": "Point",
+		  "properties": {
+			"name": "",
+			"show_on_map": true
+		  },
+		  "coordinates": [ 2240.963, -848.2642 ]
+		},
+		{
+		  "type": "Point",
+		  "properties": {
+			"name": "",
+			"show_on_map": true
+		  },
+		  "coordinates": [ 3362.028, 1071.977 ]
+		}
+    ]
+}

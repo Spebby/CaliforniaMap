@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "category": "Cinirite",
+  "icon": "Cinirite",
+  "features": [
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 879.1976, -943.5331 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 882.936, -946.4008 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 957.3635, -1008.469 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 955.0535, -1014.282 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 961.6635, -983.8734 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 955.606, -971.7894 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 924.112, -996.212 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 927.6631, -979.182 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 946.3246, -996.5432 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 937.3755, -987.4551 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 931.8257, -1011.253 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 935.1306, -997.8706 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 947.4429, -977.3295 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 952.2917, -983.4735 ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "",
+        "show_on_map": true
+      },
+      "coordinates": [ 944.8063, -992.1042 ]
+    }
+  ]
+}
+
